@@ -1,4 +1,3 @@
-
 # Telco Customer Churn — SQL & Power BI Analytics
 
 A business-focused customer churn analytics project built using **SQL, SQLite, Power BI, DAX, and dimensional data modeling**.
@@ -366,5 +365,6 @@ Built as a portfolio project to demonstrate practical skills in:
 
 **SQL → Data Modeling → Power BI → DAX → Business Analytics**
 
-#   t e l c o - c u s t o m e r - c h u r n - p o w e r b i  
+#   t e l c o - c u s t o m e r - c h u r n - p o w e r b i 
+ 
  
