@@ -33,7 +33,7 @@ The objective of this project is to transform raw customer subscription data int
 
 ---
 
-# Project Workflow
+## Project Workflow
 
 ```text
 Raw CSV
@@ -53,7 +53,7 @@ Power BI Data Model
 DAX Measures
    ↓
 Interactive Dashboard
-````
+```
 
 ---
 
@@ -364,7 +364,3 @@ Potential extensions include:
 Built as a portfolio project to demonstrate practical skills in:
 
 **SQL → Data Modeling → Power BI → DAX → Business Analytics**
-
-#   t e l c o - c u s t o m e r - c h u r n - p o w e r b i 
- 
- 
